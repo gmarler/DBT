@@ -1,3 +1,5 @@
 *.swp
 .build
 /DBT*
+share/dbt-schema/*
+share/dbt-schema.db
