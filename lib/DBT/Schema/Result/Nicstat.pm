@@ -16,7 +16,7 @@ __PACKAGE__->add_columns(
     is_nullable       => 0,
   },
   'timestamp' => {
-    data_type         => 'timestamp with timezone',
+    data_type         => 'timestamp with time zone',
     is_nullable       => 0,
   },
 );
